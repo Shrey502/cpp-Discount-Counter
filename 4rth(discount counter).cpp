@@ -40,4 +40,3 @@ int main()
 	}
 	cout<<"You got "<<dis<<"Rs discount and you have to pay "<<amt<<"rs";
 }
-
